@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.GLAVNI{
+    text-align: center;
+    height: 100px;
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+}
+.second{
+    text-align: center;
+    height: 50px;
+    background-color: rgb(13, 161, 161);
+    padding: 5px;
+    margin: 10px;
+}
+.center{
+    text-align: center;
+    height: 500px;
+    background-color: rgb(41, 201, 201);
+    padding: 5px;
+    margin: 10px;
+}
+.footer{
+    text-align: center;
+    height: 50px;
+    background-color: rgb(5, 78, 78);
+    padding: 5px;
+    margin: 10px;
+}
+
+html{
+    background-image:url(123123.jpg);
+}
